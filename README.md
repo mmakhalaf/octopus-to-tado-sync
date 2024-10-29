@@ -1,5 +1,7 @@
 # Octopus Energy & Tado Energy IQ Sync Tool
 
+[![Run Tado-Octopus Script](https://github.com/mmakhalaf/octopus-to-tado-sync/actions/workflows/schedule_sync.yml/badge.svg?branch=main)](https://github.com/mmakhalaf/octopus-to-tado-sync/actions/workflows/schedule_sync.yml)
+
 This repository contains a script to automatically sync your Octopus Energy
 smart meter readings with Tado's Energy IQ feature. The workflow provided allows
 you to set this up to run on a weekly basis using GitHub Actions, so your Tado
